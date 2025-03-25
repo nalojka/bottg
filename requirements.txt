@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+os
+sys
+logging
+sqlite3
